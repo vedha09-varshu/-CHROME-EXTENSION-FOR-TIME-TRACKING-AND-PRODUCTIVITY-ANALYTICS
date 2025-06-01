@@ -46,3 +46,6 @@ This extension is useful for students, developers, or remote workers who want to
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/0eb5ca99-7bae-4568-9f12-7fe3295a5dff)
+![Image](https://github.com/user-attachments/assets/61189867-3daf-49d2-be1b-8ce76a3aae54)
+
